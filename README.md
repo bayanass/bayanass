@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm ANASS BAYDIDI</h1>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/jaiswaladi246/30-Days-Of-DevOps)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **RPA & Cloud Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about ** RPA and DevOps & Cloud DevOps**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **anassbaydidi44@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
