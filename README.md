@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm ANASS BAYDIDI</h1>
 <div align="center"> <img src=""> </div>
-<h3 align="center">A passionate RPA Engineer From Morroco. I work in Corporate IT Sector and in my free time I make YouTube videos at </h3>
+<h3 align="center">A passionate RPA Engineer From Morroco. </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
