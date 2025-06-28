@@ -35,7 +35,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/UiPath_Logo.svg/512px-UiPath_Logo.svg.png" alt="uipath" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/bayanass/assets/main/uipath-logo.png" alt="uipath" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
