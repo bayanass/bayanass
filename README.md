@@ -13,7 +13,7 @@
 ---
 
 - 🔭 I’m currently working on [1-Year-of-RPA-Automation-&-Testing](https://github.com/bayanass/bayanass)
-- 🌱 I’m learning **RPA (UiPath, Blue Prism), Test Automation (Selenium, Postman)** and exploring **Cloud DevOps tools**
+- 🌱 I’m learning **RPA (UiPath, Blue Prism), Test Automation (Selenium, RobotFramework)** and exploring **Cloud DevOps tools**
 - 💬 Ask me about **RPA automation, test automation, UiPath, Selenium, Docker, and GitHub Actions**
 - 📫 Reach me at: **anassbaydidi44@gmail.com**
 - 🎯 Currently focused on: **Building full-scale automation pipelines using UiPath & Selenium**
