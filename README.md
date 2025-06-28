@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-DevOps](https://github.com/bayanass/bayanass)
+- 🔭 I’m currently working on [1-year-Of-RPA Automation & Test](https://github.com/bayanass/bayanass)
 
 - 🌱 I’m currently learning **RPA & Cloud Devops**
 
